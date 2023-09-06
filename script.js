@@ -3,7 +3,7 @@ const hours = document.getElementById('hours')
 const minutes = document.getElementById('minutes')
 const seconds = document.getElementById('seconds')
 
-const dateFuture = new Date('22 Nov 2022')
+const dateFuture = new Date('31 Nov 2023')
 
 function countdown(){
     const newdate = new Date(dateFuture);
